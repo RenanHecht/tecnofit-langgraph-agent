@@ -1,0 +1,50 @@
+[
+  {
+    "pergunta": "Quanto custa o Tecnofit? Quais são os valores?",
+    "resposta": "Nossos planos são personalizados de acordo com o tamanho e o tipo do seu negócio (Academia, Box de Crossfit, Estúdio ou Personal). Isso garante que você pague um valor justo, apenas pelo que realmente utiliza. Para uma cotação exata, nosso consultor precisa entender sua estrutura."
+  },
+  {
+    "pergunta": "Como funciona a implantação? É difícil começar?",
+    "resposta": "A implantação é assistida! Você terá um time de Onboarding (implantação) dedicado para te ajudar a configurar o sistema, cadastrar planos e treinar sua equipe. Não te deixamos sozinho nessa etapa inicial."
+  },
+  {
+    "pergunta": "Já uso outro sistema. Consigo migrar meus dados?",
+    "resposta": "Sim! Sabemos que seus dados são preciosos. Nossa equipe auxilia no processo de importação de cadastro de alunos e dados financeiros do seu sistema antigo para o Tecnofit, para que você não precise recomeçar do zero."
+  },
+  {
+    "pergunta": "Preciso comprar um servidor ou computador potente?",
+    "resposta": "Não. O Tecnofit é 100% em nuvem (Cloud). Você pode acessar de qualquer computador, tablet ou celular com internet, sem gastar com servidores caros ou manutenção de TI."
+  },
+  {
+    "pergunta": "O sistema funciona para o meu tipo de negócio?",
+    "resposta": "Atendemos todo o mercado fitness com soluções específicas: 'Tecnofit Gestão' para Academias e Estúdios (Pilates, Yoga, Lutas) e 'Tecnofit Box' focado em CrossFit e Treinamento Funcional (com Leaderboard e WODs)."
+  },
+  {
+    "pergunta": "Tem fidelidade ou multa de cancelamento?",
+    "resposta": "Trabalhamos com contratos transparentes. Temos opções de planos mensais e anuais com condições comerciais diferenciadas. O ideal é conversar com o consultor para ver qual modelo se encaixa melhor no seu fluxo de caixa."
+  },
+  {
+    "pergunta": "Quais catracas são compatíveis?",
+    "resposta": "Somos integrados com as principais marcas do mercado, como Control iD, Topdata, Henry e outras. Se você já tem catraca, é muito provável que ela funcione. Se não tem, indicamos parceiros com condições especiais."
+  },
+  {
+    "pergunta": "O sistema ajuda a diminuir a inadimplência?",
+    "resposta": "Com certeza. Temos ferramentas poderosas para isso: bloqueio automático na catraca, cobrança recorrente no cartão de crédito (que não ocupa o limite do aluno) e envio automático de lembretes de pagamento por E-mail e SMS."
+  },
+  {
+    "pergunta": "Vocês oferecem suporte técnico?",
+    "resposta": "Sim, e é humanizado. Temos canais de suporte via Chat dentro do sistema e e-mail. Nossa equipe de sucesso do cliente (CS) está pronta para tirar dúvidas operacionais do dia a dia."
+  },
+  {
+    "pergunta": "O aluno consegue pagar pelo aplicativo?",
+    "resposta": "Sim! Pelo app do aluno, ele consegue visualizar faturas abertas, copiar o código PIX ou pagar com cartão de crédito, renovando o plano sem precisar pegar fila na recepção."
+  },
+  {
+    "pergunta": "O sistema emite Nota Fiscal (NFS-e)?",
+    "resposta": "Emite sim. O Tecnofit automatiza sua gestão fiscal, emitindo as notas fiscais de serviço automaticamente após o pagamento, integrado com a prefeitura da sua cidade (mediante homologação)."
+  },
+  {
+    "pergunta": "Como funciona o CRM de vendas?",
+    "resposta": "O CRM ajuda a sua equipe a não perder vendas. Você visualiza o funil (quem visitou, quem fez aula experimental, quem está negociando) e pode agendar tarefas de follow-up (ligação/WhatsApp) para garantir que o lead feche matrícula."
+  }
+]

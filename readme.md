@@ -64,7 +64,7 @@ A API estará disponível em http://localhost:8000.
 ## Como Testar
 
 A API possui documentação interativa (Swagger UI) disponível em:
-http://localhost:8000/docs1. 
+http://localhost:8000/docs. 
 
 1. Teste de Conversação (Endpoint POST /chat)
 Utilize o endpoint /chat para interagir. É fundamental enviar o parâmetro thread_id para manter a memória da conversa.
